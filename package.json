@@ -1,0 +1,9 @@
+{
+  "name": "@activelamp/prettier-config",
+  "version": "1.0.0",
+  "description": "AL Prettier config",
+  "main": "index.json",
+  "repository": "git@github.com:activelamp/prettier-config.git",
+  "author": "ActiveLAMP <info@activelamp.com>",
+  "license": "MIT"
+}
